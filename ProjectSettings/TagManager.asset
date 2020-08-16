@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gold Dot
+  - Indigo Dot
+  - Mint Green Dot
+  - Orange Dot
+  - Pink Dot
+  - Red Dot
+  - Salmon Dot
+  - Tiel Dot
+  - Coin Dot
+  - Grey Dot
+  - Yellow Dot
+  - piece 1
+  - piece 2
+  - piece 3
+  - piece 4
+  - piece 5
+  - piece 5 alt
+  - piece 6
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

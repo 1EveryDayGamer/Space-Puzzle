@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 319858ecf25399845a585688170ed540
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilePrefab: {fileID: 1178867536101628, guid: a1631987c5805534c93c3d79c9bade68,
+      type: 2}
+  - DestroyEffect: {fileID: 1723013640649372, guid: b365fd9460eb043869381400eaf8a6b3,
+      type: 2}
+  - currentDot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
